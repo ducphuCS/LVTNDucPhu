@@ -1,1 +1,0 @@
-CoinMarketCap cho phép lấy data ngày gần nhất, còn historical data không có free.
