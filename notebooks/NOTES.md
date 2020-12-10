@@ -34,17 +34,17 @@ iexCloud:
 - có lươn Technical Indicators
 - các thông tin như Cryptocurrency Book hay Quote chỉ cho giá trị trong 1 ngày
 - bản Free: 
-    Unlimited Investors Exchange Data --> đọc không hiểu nó là về cái gì
-    Unlimited Sandbox Testing --> free và unlimited, 10 request per second
-    Core Data: Intraday US Stock Price, Historical US Stock Price 5Y, Historical Intl Stock Price 5Y, Earnings last, Dividends last, Splits, Reference Data, Mutual Funds, OTC, News, Crypto --> ghi rõ những gì Free, đỡ mất công tìm như các trang khác.
-Intraday Price: thông tin OHLC, volume, numOfTrade trong ngày --> trong ngày thì không useful
-Historical Price: thông tin OHLC, volume, tối đa 5 năm (Free)
-Splits (Basic): Split Event, những cái last reported chỉ included with paid
-Reference Data: not useful
-Mutual Funds: thông tin về các Mutual Funds, ngoài ra không có data gì hấp dẫn
-OTC: thông tin các OTC
-News: thông tin các bài báo về stocks. historical không available for free
-Crypto: không có historical
+    + Unlimited Investors Exchange Data --> đọc không hiểu nó là về cái gì
+    + Unlimited Sandbox Testing --> free và unlimited, 10 request per second
+    + Core Data: Intraday US Stock Price, Historical US Stock Price 5Y, Historical Intl Stock Price 5Y, Earnings last, Dividends last, Splits, Reference Data, Mutual Funds, OTC, News, Crypto --> ghi rõ những gì Free, đỡ mất công tìm như các trang khác.
+- Intraday Price: thông tin OHLC, volume, numOfTrade trong ngày --> trong ngày thì không useful
+- Historical Price: thông tin OHLC, volume, tối đa 5 năm (Free)
+- Splits (Basic): Split Event, những cái last reported chỉ included with paid
+- Reference Data: not useful
+- Mutual Funds: thông tin về các Mutual Funds, ngoài ra không có data gì hấp dẫn
+- OTC: thông tin các OTC
+- News: thông tin các bài báo về stocks. historical không available for free
+- Crypto: không có historical
 
 - Bản $9/mo thì fully access to Core Data.
 
