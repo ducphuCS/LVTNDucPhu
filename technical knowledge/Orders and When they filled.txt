@@ -1,0 +1,20 @@
+https://www.investopedia.com/ask/answers/112814/how-long-does-it-take-broker-confirm-trade-after-it-placed.asp
+Key Takeaways:
+- A fill is when you receive back the prices and amounts of trades you've entered with your broker, the timing of which will be impacted by order type and market conditions.
+- Market orders provide you fairly immediate fills, but you cannot control the prices you'll receive on your orders
+- Limit orders guarantee a price, but you may not get filled until a stock price reaches your limit
+- Once orders are filled, they can take an additional couple of days to go through the clearing and settlement process, although you'll see them in your account pretty much right away
+
+=======
+Market Orders: Immediate Fills
+Orders placed between market hours are sent to the market right away. Orders to buy and sell stocks placed outside these times sit until the market reopens
+A market order in a liquid stock such as AAPL or FB is almost filled and confirmed immediately.
+An order with a smaller, less-liquid stock may take longer to fill, depends on if there's an "ask" on the other side of the "bid" or vice versa that can fill the trade.
+If the trade is a limit order, the trade could take significantly longer to fill, if it's filled at all
+=======
+
+=======
+Orders with conditions such as limits, stop-losses, stop-buys, and all-or-nothing may sit for an amount of time before being filled, or they may never be filled at all
+There are instances when liquiditymay disapper for a short time period, causing investors to get filled with market orders at a much higher and lower price than expected
+=======
+
