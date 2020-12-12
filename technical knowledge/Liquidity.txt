@@ -1,4 +1,4 @@
-=======
+======
 Understanding Liquidity
 Liquidity describes the degree to which an asset can be quickly bought or sold in the market at a price reflecting its intrinsic value.
 Cash is universally considered the most liquid asset because it can most quickly and easily be converted into other assets.

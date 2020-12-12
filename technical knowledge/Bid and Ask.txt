@@ -1,0 +1,6 @@
+=======
+Bid and Ask
+The term bid and ask indicates the best potential price at which a security can be sold and bought at a given point in time.
+The bid price represents the maximum price that a buyer is willing to pay for a share of stock or othher security.
+The ask price represents the minimum price that a seller is willing to take for that same security.
+A trade or transaction occurs after the buyer and seller argee on a price for the security which is no higher than the bid and no lower than the ask
