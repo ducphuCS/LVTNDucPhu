@@ -1,0 +1,34 @@
+=======
+Key Takeaways:
+- Depending on investing style, different types of orders can be used to trade stocks more effectively
+- A market order simply buys (sells) shares at the prevailing market prices until the order is filled
+- A limit oreder specifies a certain price at which the order must be filled, although there is no guarantee that some or all the order will trade if the limit is set too high or low
+- Stop orders, a type of limit order, are triggered when a stock moves above or below a certain level, often used as a way to insure against larger losses or to lock in profits
+=======
+
+Market orders
+The last traded price is not necessarily the price at which the market order will be executed.
+The price will remain the same only when the bid/ask price is exactly at the last traded price
+Market orders do not guarantee a price, but they do guarantee the order's immediate execution.
+Although the investors doesn;t know the exact price at which the stock will be bought or sold, market orders on stocks that trade over tens of thousands of shares per day will likely be executed close to the bid/ask prices.
+=======
+
+Limit orders
+Allow investors to buy and sell securities at a certain price in the future.
+Four types of limit orders:
+- Buy Limit: an order to purchase a security at or below a specified price. The order must be placed at or below the current market bid
+- Sell limit: an order to sell a security at or above a specified price. The order must be placed at or above the current market ask
+- Buy Stop: an order to buy a security at a price above the current market bid. A stop order to buy become active only afer a specified price level has been reached. Once a stop level has been reached, the order will be immediately converted into a market or limit order
+- Sell Stop: an order to sell a security at a price below the current market ask. A stop order to sell becom active only after a specified price level has been reached.
+=======
+
+Additional Stock Order Type
+- Stop-loss order: also referred to as a stopped market, on-stop buy or on-stop sell. This order remains dormant until a certain price is passed, at which time it is activated as a market order (Sell Stop can be activated as a limit order or market order)
+- All or None: especially important for those who buy penny stocks. An all-or-none ensure that either the entire quantity of stocks you requested or none at all.
+- Immediate or Cancel: whatever amount of an order that can be executed in the market (or limit)  in very short time span, often just a few seconds or less, be filled and the rest of the order canceled.
+- Fill or Kill: combines an AON order with an IOC specification: the entire size be traded and in a very short time periods. If neither conditions is met, the order is canceled.
+- Gool 'Til Canceled: a time restriction that you can place on different orders. A GTC remain active until you decide to cancel it. There is a limit of the maximum time you can keep an order open (or active)
+- Day: if you don't specify a time frame of expiry through the GTC instruction, then the order will typically be set as a day order.
+=======
+
+Not all brokerages or online trading platforms allow for all of these types of orders. 
